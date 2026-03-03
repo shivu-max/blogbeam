@@ -87,7 +87,8 @@ python blogbeam.py
 
 Open your browser and visit:
 
-http://127.0.0.1:5000/
+1. http://127.0.0.1:5000
+2. http://192.168.1.3:5001
 
 ---
 
@@ -135,24 +136,13 @@ This project demonstrates:
 
 ---
 
-## 🌐 Deployment (Optional)
-
-To deploy this application:
-
-- Use platforms like **Render**, **Railway**, or **AWS**
-- Configure environment variables
-- Switch to PostgreSQL for production
-- Disable debug mode before deployment
-
----
-
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available.
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by Shivaraddi.a.a
+Developed by Shivaraddi.a.v
 Backend Developer | Python & Flask Enthusiast
